@@ -7,13 +7,13 @@ const projects = [
   {
     title: 'Explore Ai Chatbot',
     description: 'Used Google Gemini Key For Answering Questions ',
-    imageUrl: `/_next/static/media/Explore ai .89cea1c1.jpg`, // Replace with your project image URL
-    link: 'https://github.com/upstash/rag-chat/tree/master/examples/nextjs/chat-to-website',
+    imageUrl:'https://th.bing.com/th?id=OIP.mh__8BvgS3sw-uiZPQvqhQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2', // Replace with your project image URL'
+    link: 'https://rehanbagwan007.github.io/Explore-Ai-Chatbot/',
   },
   {
-    title: 'Bugati Website Clone (Upcoming)',
-    description: 'Building Bugati Automobile Website Colne Animated And Effects',
-    imageUrl: 'https://imgs.search.brave.com/PldJaS7WCu_O1jqpk4x_ZeoHJerOvZGrFamqyPTGAf0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tYXJx/dWUtdm9pdHVyZS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTUvMTAvTGEtZGVz/Y3JpcHRpb24tZHUt/bG9nby1CdWdhdHRp/LTYwMHg0NTAuanBn', // Replace with your project image URL
+    title: 'Royal Enfield Functional Clone(Upcoming)',
+    description: 'Project in Process',
+    imageUrl: 'https://th.bing.com/th/id/OIP.n9D2CvwwhvYJqTsLyMJS9QHaEv?w=252&h=180&c=7&r=0&o=5&pid=1.7', // Replace with your project image URL
     link: '#',
   },
  
