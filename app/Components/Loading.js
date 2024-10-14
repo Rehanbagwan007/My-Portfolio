@@ -23,7 +23,7 @@ const Loading = () => {
 
   return (
     <div className="flex items-center justify-center h-screen bg-gradient-to-r from-purple-500 to-blue-500">
-      <h1 className="text-4xl font-bold text-white">{displayedText}</h1>
+      <h1 className="text-[8vw] font-bold text-white">{displayedText}</h1>
     </div>
   );
 };

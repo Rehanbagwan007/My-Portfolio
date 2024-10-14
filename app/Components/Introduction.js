@@ -19,7 +19,7 @@ const Introduction = () => {
       <p className="text-xl text-gray-300 mb-10 text-center">
         Diploma Third Year Of Automobile Engineering
       </p>
-      <div className="flex justify-center space-x-8 mb-8">
+      <div className="flex flex-wrap justify-center space-x-8 mb-8">
         {/* Logos */}
         <FaHtml5 className="text-orange-600 text-6xl" />
         <FaCss3Alt className="text-blue-600 text-6xl" />

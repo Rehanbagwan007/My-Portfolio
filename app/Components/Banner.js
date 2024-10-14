@@ -42,10 +42,8 @@ const RotatingCube = () => {
 const Banner = () => {
   return (
     <div
-      className="h-[70vh] bg-cover bg-center  bg-gray-1000 flex items-center justify-center text-white"
-      style={{
-       // backgroundImage: 'url("https://example.com/your-dark-background.jpg")', // Replace with your dark background image URL
-      }}
+      className="h-[70vh] bg-black flex items-center justify-center text-white"
+      
     >
       <div className="flex flex-col md:flex-row items-center justify-between m-[24vw]">
         {/* Text Section */}
@@ -57,7 +55,7 @@ const Banner = () => {
 
         {/* 3D Model Section */}
         <Canvas shadows>
-          <ambientLight intensity={2} />
+          <ambientLight intensity={8} />
           <directionalLight position={[2, 5, 5]} intensity={8} castShadow />
           <RotatingCube />
         </Canvas>

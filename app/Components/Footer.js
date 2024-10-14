@@ -60,7 +60,7 @@ const Footer = () => {
             Send Message
           </button>
         </form>
-        <div className="absolute mt-20 right-20 lg:right-0  lg:top-[6vw] lg:mt-2  ">
+        <div className="absolute w-scre mt-[10vh] right-20 lg:right-0  lg:top-[6vw] lg:mt-2  ">
 
         
           <div className='flex gap-3 '><MdEmail />rehanbagwan10000@gmail.com </div>
